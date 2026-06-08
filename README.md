@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=umenzi&label=Profile%20views&color=0e75b6&style=flat" alt="umenzi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yedhu-irl&label=Profile%20views&color=0e75b6&style=flat" alt="umenzi" /> </p>
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
