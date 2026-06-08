@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=umenzi&label=Profile%20views&color=0e75b6&style=flat" alt="umenzi" /> </p>
 
-<!--
-**yedhu-irl/yedhu-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Javier+Paez+Franco" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://jpaefra.com)
+[![Blog](https://img.shields.io/badge/Blog-jpaefra.com/posts-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](https://jpaefra.com/posts/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-paez-franco/)
+[![Mail](https://img.shields.io/badge/Gmail-business.antler474@passinbox.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:business.antler474@passinbox.com?subject=Hey!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
